@@ -1,0 +1,15 @@
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\bin\Debug\net9.0\InterfaceApp.exe
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\bin\Debug\net9.0\InterfaceApp.deps.json
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\bin\Debug\net9.0\InterfaceApp.runtimeconfig.json
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\bin\Debug\net9.0\InterfaceApp.dll
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\bin\Debug\net9.0\InterfaceApp.pdb
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\InterfaceApp.AssemblyInfoInputs.cache
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\InterfaceApp.AssemblyInfo.cs
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\InterfaceApp.csproj.CoreCompileInputs.cache
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\InterfaceApp.sourcelink.json
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\InterfaceApp.dll
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\refint\InterfaceApp.dll
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\InterfaceApp.pdb
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\InterfaceApp.genruntimeconfig.cache
+C:\Users\tempuser\dcit318-assignment2-11226195\InterfaceApp\obj\Debug\net9.0\ref\InterfaceApp.dll
